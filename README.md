@@ -3,6 +3,9 @@ Python을 이용한 개인화 추천시스템이라는 책을 공부하며 실�
 
 <a href = "https://www.yes24.com/Product/Goods/110328538">Python을 이용한 개인화 추천시스템</a>
 
+![image](https://github.com/taekyounglee1224/Personalized-Recommendation-System-using-Python/assets/122856705/8525b9a1-8900-4171-9ae6-7128fed3ed57)
+
+
 목차
 Chapter 1 추천 시스템 소개
 
